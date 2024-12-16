@@ -1,4 +1,4 @@
-# Audio DSP
+# Audio_dsp
 
 This repository contains various **Audio DSP (Digital Signal Processing)** algorithms implemented in **MATLAB**, for the "Audio Signal Processing" course at Aalto University.
 Algorithms are placed within separate directories because their implementation may involve a proof-of-concept, demanding some audio files (which are thus supplied). 
