@@ -1,4 +1,4 @@
-# Audio DSP MATLAB Implementations
+# Audio DSP
 
 This repository contains various **Audio DSP (Digital Signal Processing)** algorithms implemented in **MATLAB**, for the "Audio Signal Processing" course at Aalto University.
 Algorithms are placed within separate directories because their implementation may involve a proof-of-concept, demanding some audio files (which are thus supplied). 
@@ -22,6 +22,11 @@ Algorithms are placed within separate directories because their implementation m
 
 ### 6. **Velvet Noise**
    **Velvet noise** is a type of noise signal that has a smooth, soft texture, unlike white or pink noise, which can sound harsh or too sharp. It is used for applications where a more natural-sounding noise is desired, such as in sound design for film, relaxation music, or procedural audio generation. Velvet noise is often used to simulate non-intrusive background noise that blends smoothly with other sounds.
+
+
+## matlab-utils
+
+These are some helpful utility functions I wrote for my master's thesis. 
 
 ## Installation
 
